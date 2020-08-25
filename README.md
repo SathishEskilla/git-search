@@ -6,7 +6,7 @@ Install dependencies using below command :
 
 ### `npm install`
 
-Start application :
+To start application :
 
 ### `npm start`
 
